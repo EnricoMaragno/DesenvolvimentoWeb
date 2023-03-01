@@ -1,1 +1,15 @@
-Referências: https://www.python.org/
+Python
+Referências:https://www.python.org/
+Para que serve: O Python é uma linguagem de programação amplamente usada em aplicações da Web, desenvolvimento de software, ciência de dados e machine learning (ML)
+
+Git
+Referência:https://git-scm.com/
+Para que serve: Ele é usado para controlar o histórico de alterações de arquivos e principalmente de projetos de desenvolvimento de software.
+
+SQLiteBrowser
+Referência:https://sqlitebrowser.org/
+Para que serve: ele é um banco de dados leve e rápido, tornando-o perfeito para dispositivos Android.
+
+VScode
+Referência:https://code.visualstudio.com/
+Para que serve: O Visual Studio Code é um editor de código-fonte leve, mas poderoso, que é executado na área de trabalho e está disponível para Windows, macOS e Linux.
